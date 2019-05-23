@@ -38,6 +38,8 @@ b = 3
 `@sample_code`
 ```{python}
 # define c
+
+print(c)
 ```
 
 `@solution`
