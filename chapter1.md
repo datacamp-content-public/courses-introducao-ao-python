@@ -24,7 +24,7 @@ O python pode ser utilizado para operações básicas de soma, dividir e multipl
 ```
 
 `@instructions`
-crie uma variável c em que o resultado é a multiplicação de ```a ```  por ```b ```
+crie uma variável ```c ``` em que o resultado é a multiplicação de ```a ```  por ```b ```
 
 `@hint`
 a multiplicação deverá atribuir a c o valor de a multiplicado por b
