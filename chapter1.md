@@ -33,7 +33,6 @@ a multiplicação deverá atribuir a c o valor de a multiplicado por b
 ```{python}
 a= 5
 b = 3
-# define c
 ```
 
 `@sample_code`
@@ -45,8 +44,6 @@ print(c)
 
 `@solution`
 ```{python}
-a= 5
-b = 3
 # define c
 c = a * b
 print(c)
