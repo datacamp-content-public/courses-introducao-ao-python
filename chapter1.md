@@ -54,5 +54,5 @@ print(c)
 
 `@sct`
 ```{python}
-c  == 15
+c  == 15 
 ```
