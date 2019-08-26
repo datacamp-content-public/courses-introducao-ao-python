@@ -45,11 +45,14 @@ print(c)
 
 `@solution`
 ```{python}
+a= 5
+b = 3
 # define c
 c = a * b
+print(c)
 ```
 
 `@sct`
 ```{python}
-c == 15
+c  == 15
 ```
