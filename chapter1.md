@@ -56,3 +56,41 @@ print(c)
 ```{python}
 c  == 15 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: dff4f65960
+xp: 100
+```
+
+
+
+`@instructions`
+O python pode ser
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
