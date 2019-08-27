@@ -51,7 +51,7 @@ print(c)
 
 `@sct`
 ```{python}
-Ex().Ex().check_object("c").has_equal_value()
+
 ```
 
 ---
